@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Farid Zouheir and
-- 👀 I enjoy building applications and small games in Java after I build applications at work.
+- 👀 I enjoy building applications and small games in Java.
 - 🌱 I’m currently focusing on improving my coding skills with the aim to write clean and optimized code and, in order to do so, I've started to contribute to open source projects.
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 You can reach me by email or linkedin:
