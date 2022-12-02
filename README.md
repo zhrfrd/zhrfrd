@@ -1,5 +1,6 @@
 - 👋 Hi, My name is Farid Zouheir
-- 👀 I enjoy building applications and small games in Java.
+- :office: I currently work as a software developer for a Special Health Authority within the NHS Wales 
+- 👀 During my free time I enjoy building applications and small games in Java.
 - 🌱 I’m currently focusing on improving my coding skills with the aim to write clean and optimized code and, in order to do so, I've started to contribute to open source projects.
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 You can reach me by email or linkedin:
