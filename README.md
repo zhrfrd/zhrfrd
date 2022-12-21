@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Farid Zouheir
+- 👋 Hi, my name is Farid Zouheir.
 - :office: I currently work as a software developer for a Special Health Authority within the NHS Wales.
 - 👀 During my free time I enjoy building applications and small games in Java.
 - 🌱 I’m currently focusing on improving my back-end skills with the aim to write clean and optimized code.
