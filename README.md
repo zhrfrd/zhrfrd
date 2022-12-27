@@ -3,7 +3,7 @@
 - 👀 During my free time I enjoy building applications and small games in Java.
 - 🌱 I’m currently focusing on improving my back-end skills with the aim to write clean and optimized code.
 <!-- - 💞️ I’m looking to collaborate on  -->
-- 📫 You can reach me by email or linkedin:
+- 📫 You can reach me by email or Linkedin:
   - zouheirjob@hotmail.com
   - https://www.linkedin.com/in/farid-zouheir-6bb329172/
 
