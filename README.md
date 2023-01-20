@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Farid Zouheir.
 - :office: I currently work as a software developer for a Special Health Authority within the NHS Wales.
-- 👀 During my free time I enjoy building applications and small games in Java. Check my last project [JRobots](https://github.com/zhrfrd/JRobots).
+- 👀 During my free time I enjoy building applications and small games in Java. At the moment I'm working on a side open-source project called [JRobots](https://github.com/zhrfrd/JRobots).
 - 🌱 I’m currently focusing on improving my back-end skills with the aim to write clean and optimized code.
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 You can reach me by email or Linkedin:
